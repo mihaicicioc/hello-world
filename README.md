@@ -12,4 +12,12 @@ hi world, i'm mihai
 01 oct 2022 test3
 01 oct 2022 test4
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 test5
